@@ -12,3 +12,5 @@ git config --global user.name "Name"
 git config --global user.email "email"
 
 git push      -> Ladet meine Commits in Cloud hoch
+
+git pull      -> Ladet meine Commits aus der CLoud ins lokale Repository
