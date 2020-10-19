@@ -6,6 +6,7 @@ git add * 			-> Fügt ALLE Änderungen hinzu (Staging Area)
 git commit -m "Comment" 	-> Erstellt einen neuen Speicherstand (Commit)
 
 git log				-> Zeigt die commit history an
+WICHTIG!!!			-> Die Taste "Q" drücken um aus der Eingabe rauszukommen
 
 git config --global user.name "Name"
 git config --global user.email "email"
