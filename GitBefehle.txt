@@ -1,4 +1,4 @@
-git init 			-> Initialisierung eines neuen Repositories (Lokal)
+﻿git init 			-> Initialisierung eines neuen Repositories (Lokal)
 
 git add <Dateiname> 		-> Fügt die definierte Datei hinzu (Staging Area)
 git add * 			-> Fügt ALLE Änderungen hinzu (Staging Area)
@@ -14,3 +14,5 @@ git config --global user.email "email"
 git push      -> Ladet meine Commits in Cloud hoch
 
 git pull      -> Ladet meine Commits aus der CLoud ins lokale Repository
+
+// Ein Kommentar
