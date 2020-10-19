@@ -11,4 +11,4 @@ WICHTIG!!!			-> Die Taste "Q" drücken um aus der Eingabe rauszukommen
 git config --global user.name "Name"
 git config --global user.email "email"
 
-git push      -> Ladet in Cloud hoch
+git push      -> Ladet meine Commits in Cloud hoch
